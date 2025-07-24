@@ -11,4 +11,4 @@ os.system("python3 main.py")
 print("🔗 Step 3: Merging transcript...")
 os.system("python3 merge_transcripts.py")
 
-print("✅ Done. Final transcript at final_transcript.txt")
+print("✅ Done. Final transcript at merge_transcript.txt")

@@ -1,14 +1,13 @@
-[0:00:00.720 - 0:00:01.600] Nabeela: Okay. Hi.
-[0:00:00.800 - 0:00:04.800] Nabeela: Hi. This is the test to record the pipeline, and we'll see how it goes.
-[0:00:03.020 - 0:00:04.540] Nabeela: How are you doing today, Liz?
-[0:00:04.870 - 0:00:05.350] Unknown: I'm
-[0:00:05.470 - 0:00:05.790] Unknown: good.
-[0:00:06.320 - 0:00:08.320] Peter: A little bit hungry, but
-[0:00:08.820 - 0:00:11.380] Unknown: good. I just had a meat pie at
-[0:00:11.600 - 0:00:15.040] Unknown: a cafe, and it was a chicken curry meat pie. And it was really
-[0:00:15.330 - 0:00:15.730] Unknown: yummy.
-[0:00:15.970 - 0:00:17.570] Unknown: You should maybe go check out.
-[0:00:17.770 - 0:00:20.410] Unknown: That sounds yummy. I had yogurt and granola.
-[0:00:20.600 - 0:00:20.920] Unknown: And
-[0:00:21 - 0:00:22.040] Unknown: berries for breakfast.
-[0:00:22.480 - 0:00:22.960] Unknown: Awesome.
+[0:00:01.280 - 0:00:03.600] Nabeela: Hey, Liz. It's Nabila. How are you doing today?
+[0:00:03.820 - 0:00:04.540] Liz: I'm great.
+[0:00:04.710 - 0:00:07.590] Nabeela: How are you today? I'm good. I just
+[0:00:07.810 - 0:00:11.090] Nabeela: woke up kind of late, and then I had a meat pie at a
+[0:00:11.580 - 0:00:15.340] Nabeela: nearby in Australia. So it was a good day. How about you?
+[0:00:15.610 - 0:00:16.490] Liz: That's really cool.
+[0:00:16.890 - 0:00:18.170] Liz: I got up around eight
+[0:00:18.300 - 0:00:20.700] Liz: thirty, had some yogurt, granola, and
+[0:00:20.810 - 0:00:22.010] Liz: some berries for breakfast.
+[0:00:22.750 - 0:00:24.350] Liz: And then made my way over to glass.
+[0:00:24.720 - 0:00:25.440] Nabeela: That's awesome.
+[0:00:25.850 - 0:00:26.410] Nabeela: Bye, Liz.
+[0:00:26.590 - 0:00:27.070] Unknown: Bye.
