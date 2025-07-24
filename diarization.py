@@ -8,7 +8,7 @@ from pyannote.audio.pipelines.speaker_verification import PretrainedSpeakerEmbed
 from scipy.spatial.distance import cosine
 
 # =============== CONFIG =================
-HF_TOKEN = os.getenv("HF_TOKEN")
+HUGGINGFACE_TOKEN = os.getenv("HUGGINGFACE_TOKEN")
 pipeline = Pipeline.from_pretrained(
     "pyannote/speaker-diarization@2.1",
     use_auth_token=HUGGINGFACE_TOKEN
@@ -16,7 +16,8 @@ pipeline = Pipeline.from_pretrained(
 RECORDING = "samples/nabeela.wav"
 SAMPLES = {
     "Nabeela": "samples/nabeela.wav",
-    #"Alice": "samples/alice.wav"
+    "Peter" : "samples/peter.wav",
+    "Liz" : "samples/liz.wav"
 }
 SIM_THRESHOLD = 0.75  # Adjust if needed
 # ========================================

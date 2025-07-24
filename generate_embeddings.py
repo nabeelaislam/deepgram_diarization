@@ -22,7 +22,7 @@ def extract_embedding(wav_path):
 os.makedirs("embeddings", exist_ok=True)
 
 # Extract and save
-for name in ["nabeela", "peter"]:
+for name in ["nabeela", "peter", "liz"]:
     path = f"samples/{name}.wav"
     emb = extract_embedding(path)
     with open(f"embeddings/{name}.pkl", "wb") as f:

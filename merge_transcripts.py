@@ -11,11 +11,15 @@ with open("embeddings/nabeela.pkl", "rb") as f:
     nabeela_emb = pickle.load(f)
 with open("embeddings/peter.pkl", "rb") as f:
     peter_emb = pickle.load(f)
+with open("embeddings/liz.pkl", "rb") as f:
+    liz_emb = pickle.load(f)
+
 
 # Convert known embeddings to torch tensors once
 known_speakers = {
     "Nabeela": nabeela_emb.detach().clone().squeeze(),
-    "Peter": peter_emb.detach().clone().squeeze()
+    "Peter": peter_emb.detach().clone().squeeze(),
+    "Liz": liz_emb.detach().clone().squeeze()
 
 }
 

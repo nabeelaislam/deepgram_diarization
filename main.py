@@ -75,14 +75,19 @@ def main():
             transcript_file.flush()
 
             # ✅ Save to JSON
-            with open("transcript.json", "a", encoding="utf-8") as jf:
-                json.dump({
-                    "start": alt.get("start", 0),
-                    "end": alt.get("end", 0),
-                    "speaker": speaker,
-                    "text": sentence
-                }, jf)
-                jf.write("\n")
+            start_time = alt.get("words", [{}])[0].get("start", 0)
+            end_time = alt.get("words", [{}])[-1].get("end", 0)
+
+            entry = {
+                "start": round(start_time, 2),
+                "end": round(end_time, 2),
+                "speaker": speaker,
+                "text": sentence
+            }
+
+            with open("transcript.jsonl", "a", encoding="utf-8") as jf:
+                jf.write(json.dumps(entry) + "\n")
+
 
         # ✅ Register handler
         dg_connection.on(LiveTranscriptionEvents.Transcript, on_message)
