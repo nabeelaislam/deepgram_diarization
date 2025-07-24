@@ -1,0 +1,15 @@
+Script a, take one,
+music
+version.
+I've had these headaches every afternoon.
+And my nurse thinks it might just
+be dehydration.
+Do you drink much water during the day? Honestly,
+barely. I forgot.
+Coffee in the morning, then maybe a soda with lunch.
+That's about it.
+I also haven't drank much water today. I think I drank
+like, two glasses yesterday. You should drink more.
+Did you go to bingo yesterday? Yes.
+I won.
+{"latency": 16.56, "cpu": 1.09}

@@ -1,0 +1,18 @@
+Speaker Unknown: Script a, take
+Speaker Unknown: one.
+Speaker Unknown: Music
+Speaker Unknown: version. I've had these headaches every afternoon
+Speaker Unknown: and my nurse
+Speaker Unknown: thinks it might just be dehydration.
+Speaker Unknown: Do you drink much water during the day?
+Speaker Unknown: Honest
+Speaker Unknown: barely. I forgot.
+Speaker Unknown: Coffee in the morning, then maybe a soda with lunch.
+Speaker Unknown: That's about it.
+Speaker Unknown: I also haven't drank much water
+Speaker Unknown: today.
+Speaker Unknown: I think I drank, like, two glasses yesterday. You should drink more.
+Speaker Unknown: Did you go to bingo yesterday?
+Speaker Unknown: Yes.
+Speaker Unknown: I won.
+{"latency": 17.762352941176474, "cpu": 1.2529411764705884}

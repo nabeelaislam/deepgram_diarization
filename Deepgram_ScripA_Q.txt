@@ -1,0 +1,15 @@
+I've had these headaches every afternoon, and my nurse thinks it might just
+be dehydration. Do you drink much water during the day?
+Honestly
+barely. I forgot. Coffee in the morning that maybe is
+soda
+for with lunch.
+That's about it.
+I also haven't drank much water today.
+I think I drank, like, two glasses
+yesterday.
+You should drink more.
+You go to bingo yesterday?
+Yes.
+I won.
+{"latency": 22.19, "cpu": 1.11}

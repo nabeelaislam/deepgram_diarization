@@ -1,0 +1,20 @@
+Script a
+music verse
+music
+version.
+Yeah.
+Take one.
+I've had these headaches every afternoon.
+My nurse thinks it might just
+be dehydration.
+Do you drink much water during the day?
+Honestly, barely. I forgot.
+Coffee?
+That's about it.
+I also haven't drank much water since
+I think I drank, like, two glasses yesterday.
+Yesterday.
+You should drink more.
+You go to the venue yesterday?
+Yes. I won.
+{"latency": 18.29, "cpu": 1.04}

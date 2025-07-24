@@ -1,0 +1,17 @@
+[0:00:00 - 0:00:00.500] Nabeela: Script a, take
+[0:00:00.500 - 0:00:01] Nabeela: one.
+[0:00:01 - 0:00:01.300] Unknown: Music
+[0:00:01.300 - 0:00:02.500] Nabeela: version. I've had these headaches every afternoon
+[0:00:02.500 - 0:00:03] Unknown: and my nurse
+[0:00:03 - 0:00:03.800] Nabeela: thinks it might just be dehydration.
+[0:00:03.800 - 0:00:04.500] Nabeela: Do you drink much water during the day?
+[0:00:04.500 - 0:00:04.800] Unknown: Honest
+[0:00:04.800 - 0:00:05.200] Unknown: barely. I forgot.
+[0:00:05.200 - 0:00:06] Nabeela: Coffee in the morning, then maybe a soda with lunch.
+[0:00:06 - 0:00:06.300] Unknown: That's about it.
+[0:00:06.300 - 0:00:07] Unknown: I also haven't drank much water
+[0:00:07 - 0:00:07.300] Unknown: today.
+[0:00:07.300 - 0:00:08.200] Unknown: I think I drank, like, two glasses yesterday. You should drink more.
+[0:00:08.200 - 0:00:08.800] Unknown: Did you go to bingo yesterday?
+[0:00:08.800 - 0:00:09] Unknown: Yes.
+[0:00:09 - 0:00:09.500] Peter: I won.
