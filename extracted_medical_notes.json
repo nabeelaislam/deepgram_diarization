@@ -1,0 +1,38 @@
+[
+  {
+    "person": "Peter",
+    "note": "Headache since this morning",
+    "time": null,
+    "type": "symptom"
+  },
+  {
+    "person": "Peter",
+    "note": "took four hundred milligrams of Advil",
+    "time": "10 AM",
+    "type": "medication"
+  },
+  {
+    "person": "Peter",
+    "note": "Eating toast and drinking coffee",
+    "time": null,
+    "type": "activity"
+  },
+  {
+    "person": "Nabeela",
+    "note": "Need more food in the system",
+    "time": null,
+    "type": "activity"
+  },
+  {
+    "person": "Peter",
+    "note": "Patient has not been drinking enough water today.",
+    "time": null,
+    "type": "symptom"
+  },
+  {
+    "person": "Nabeela",
+    "note": "Dehydration could make headache worse",
+    "time": null,
+    "type": "condition"
+  }
+]

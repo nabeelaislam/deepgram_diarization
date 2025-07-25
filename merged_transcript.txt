@@ -1,13 +1,13 @@
-[0:00:01.280 - 0:00:03.600] Nabeela: Hey, Liz. It's Nabila. How are you doing today?
-[0:00:03.820 - 0:00:04.540] Liz: I'm great.
-[0:00:04.710 - 0:00:07.590] Nabeela: How are you today? I'm good. I just
-[0:00:07.810 - 0:00:11.090] Nabeela: woke up kind of late, and then I had a meat pie at a
-[0:00:11.580 - 0:00:15.340] Nabeela: nearby in Australia. So it was a good day. How about you?
-[0:00:15.610 - 0:00:16.490] Liz: That's really cool.
-[0:00:16.890 - 0:00:18.170] Liz: I got up around eight
-[0:00:18.300 - 0:00:20.700] Liz: thirty, had some yogurt, granola, and
-[0:00:20.810 - 0:00:22.010] Liz: some berries for breakfast.
-[0:00:22.750 - 0:00:24.350] Liz: And then made my way over to glass.
-[0:00:24.720 - 0:00:25.440] Nabeela: That's awesome.
-[0:00:25.850 - 0:00:26.410] Nabeela: Bye, Liz.
-[0:00:26.590 - 0:00:27.070] Unknown: Bye.
+[0:00:03.680 - 0:00:07.120] Peter: Not great, honestly. I've had a terrible headache since this morning.
+[0:00:08.280 - 0:00:10.360] Nabeela: Oh, no. Did you take anything for it?
+[0:00:10.960 - 0:00:14.240] Peter: Yeah. I took four hundred milligrams of Advil around ten AM.
+[0:00:14.440 - 0:00:15.160] Peter: It helped a little.
+[0:00:15.610 - 0:00:16.090] Unknown: Did you
+[0:00:16.150 - 0:00:17.910] Nabeela: eat anything before taking it?
+[0:00:18.340 - 0:00:20.420] Peter: Just some toast and coffee. Nothing heavy.
+[0:00:20.850 - 0:00:24.770] Nabeela: That might explain why it's not helping as much. You probably need more food in your system.
+[0:00:25.250 - 0:00:26.610] Peter: Yeah. You're probably right.
+[0:00:26.950 - 0:00:29.030] Peter: I also haven't been drinking enough water today.
+[0:00:29.630 - 0:00:32.510] Nabeela: Dehydration could definitely make the headache worse.
+[0:00:32.980 - 0:00:34.260] Nabeela: Try to get some rest too.
+[0:00:34.750 - 0:00:36.430] Peter: Will do. Thanks, Nabilah.

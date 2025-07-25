@@ -1,0 +1,15 @@
+Speaker Unknown: Hey, Peter. How are you feeling today?
+Speaker Unknown: Not great, honestly. I've had a terrible headache since this morning.
+Speaker Unknown: Oh, no. Did you take anything for it?
+Speaker Unknown: Yeah. I took four hundred milligrams of Advil around ten AM.
+Speaker Unknown: It helped a little.
+Speaker Unknown: Did you
+Speaker Unknown: eat anything before taking it?
+Speaker Unknown: Just some toast and coffee. Nothing heavy.
+Speaker Unknown: That might explain why it's not helping as much. You probably need more food in your system.
+Speaker Unknown: Yeah. You're probably right.
+Speaker Unknown: I also haven't been drinking enough water today.
+Speaker Unknown: Dehydration could definitely make the headache worse.
+Speaker Unknown: Try to get some rest too.
+Speaker Unknown: Will do. Thanks, Nabilah.
+{"latency": 18.610000000000003, "cpu": 1.042857142857143}
