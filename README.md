@@ -29,44 +29,66 @@ This toolset is ideal for building demos, research prototypes, or simple logging
     python3 merge_transcripts.py
 
 ## Project Structure
-├── embeddings/                # Pre‑computed speaker embeddings (pickle files)
-├── pretrained_models/         # SpeechBrain model checkpoints
-├── main.py                    # Live transcription & logging
-├── generate_embeddings.py     # build embeddings from WAV samples
-├── transcript.txt             # Plain text transcript
-├── transcript.jsonl           # JSONL transcript from Deepgram
-├── recording.wav              # Recorded mic audio
-├── merged_transcript.txt      # Speaker‑labeled transcript
-└── README.md                  # This file
+embeddings/                # Pre‑computed speaker embeddings (pickle files)
 
+pretrained_models/         # SpeechBrain model checkpoints
 
+main.py                    # Live transcription & logging
 
+generate_embeddings.py     # build embeddings from WAV samples
+
+transcript.txt             # Plain text transcript
+
+transcript.jsonl           # JSONL transcript from Deepgram
+
+recording.wav              # Recorded mic audio
+
+merged_transcript.txt      # Speaker‑labeled transcript
+
+README.md                  # This file
 
 
 DEEPGRAM_SPEECHTOTEXT/
-├── embeddings/                # Pre‑computed speaker embeddings (pickle files)
-│   ├── nabeela.pkl
-│   ├── peter.pkl
-│   └── liz.pkl
-├── pretrained_models/         # SpeechBrain model checkpoints
-│   ├── spkrec/
-│   └── spkrec-ecapa-voxceleb/
-├── samples/                   # Example audio files for embedding generation
-│   ├── nabeela.wav
-│   ├── peter.wav
-│   └── liz.wav
-├── test_scripts/              # Additional test or helper scripts
-│   └── ...
-├── venv/                      # Python virtual environment (optional)
-│   └── ...
-├── .gitignore
-├── record_sample.py           # Record short mic sample for speaker enrollment
-├── generate_embeddings.py     # Generate and save embeddings from WAV samples
-├── main.py                    # Live transcription: mic → Deepgram → transcript.jsonl, recording.wav
-├── merge_transcripts.py       # (Optional) Merge JSONL transcript into a human‑readable text
-├── run_pipeline.py            # End‑to‑end: transcription + speaker ID → merged_transcript.txt
-├── transcript.txt             # Plain‑text live transcript (logs)
-├── transcript.jsonl           # JSONL output from Deepgram (one object per final segment)
-├── recording.wav              # Raw microphone audio saved after transcription
-├── merged_transcript.txt      # Final speaker‑labeled transcript
-└── README.md                  # This file
+
+embeddings/                # Pre‑computed speaker embeddings (pickle files)
+
+	nabeela.pkl
+	peter.pkl
+	liz.pkl
+ 
+pretrained_models/         # SpeechBrain model checkpoints
+
+	spkrec/
+	spkrec-ecapa-voxceleb/
+ 
+samples/                   # Example audio files for embedding generation
+
+	nabeela.wav
+	peter.wav
+	liz.wav
+ 
+test_scripts/              # Additional test or helper scripts
+
+venv/                      # Python virtual environment 
+
+.gitignore
+
+record_sample.py           # Record short mic sample for speaker enrollment
+
+generate_embeddings.py     # Generate and save embeddings from WAV samples
+
+main.py                    # Live transcription: mic → Deepgram → transcript.jsonl, recording.wav
+
+merge_transcripts.py       # (Optional) Merge JSONL transcript into a human‑readable text
+
+run_pipeline.py            # End‑to‑end: transcription + speaker ID → merged_transcript.txt
+
+transcript.txt             # Plain‑text live transcript (logs)
+
+transcript.jsonl           # JSONL output from Deepgram (one object per final segment)
+
+recording.wav              # Raw microphone audio saved after transcription
+
+merged_transcript.txt      # Final speaker‑labeled transcript
+
+README.md                  # This file
